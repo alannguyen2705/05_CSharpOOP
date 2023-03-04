@@ -1,6 +1,6 @@
 # 05_CSharpOOP
+// ref su dung de luu gia tri
 Method
-
 /*
  * Method Structure
  * 
